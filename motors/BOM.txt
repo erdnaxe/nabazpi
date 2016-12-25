@@ -1,0 +1,5 @@
+1x transistor 	BC337
+2x 330 Ohm (orange, orange, marron)
+2x diode	1N4001	1N4007
+12x fils
+1x plaque de protypage
