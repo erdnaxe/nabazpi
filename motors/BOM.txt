@@ -8,3 +8,7 @@
 => 60mA en blocage
 
 => 6mA pour la commande
+
+
+petit fil noir (max 5cm)
+
